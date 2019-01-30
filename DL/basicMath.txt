@@ -1,0 +1,14 @@
+Linear Algebra: http://www.deeplearningbook.org/contents/linear_algebra.html
+
+Calculus: http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning
+
+Matrices and Calculus: https://explained.ai/matrix-calculus/index.html
+
+
+Checkout the following free courses in Khan Academy:
+
+Linear Algebra: https://www.khanacademy.org/math/linear-algebra
+
+Calculus Intro: https://www.khanacademy.org/math/calculus-1
+
+Multivariate Calculus: https://www.khanacademy.org/math/multivariable-calculus
